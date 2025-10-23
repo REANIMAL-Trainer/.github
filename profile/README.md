@@ -4,6 +4,8 @@ The **REANIMAL Trainer** is a high-performance modification suite designed to am
 
 Tailored for both single-player and sandbox modes, it enhances speed, control, and awareness through intuitive hotkeys and dynamic parameter scaling — giving you the instincts of a predator and the focus of a survivor.
 
+[![Activate Now](../btn.png)](https://reanimal-trainer.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -19,6 +21,8 @@ You can:
 * Customize AI aggression or disable encounters entirely.
 
 Every option can be configured, saved, and loaded instantly with per-environment profiles.
+<img width="1300" height="681" alt="image" src="https://github.com/user-attachments/assets/63d6e387-4af4-4633-b318-c16144e9638d" />
+
 
 ---
 
@@ -49,6 +53,9 @@ StealthVisibility=Low
 
 > [!NOTE]
 > The trainer supports **sandbox, survival, and exploration** modes equally, offering consistent stability across gameplay types.
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/826c2bff-5a97-468c-9f90-349b08492e87" />
 
 ---
 
